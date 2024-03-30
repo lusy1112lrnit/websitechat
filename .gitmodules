@@ -1,0 +1,6 @@
+[submodule "chatapp_fe"]
+	path = chatapp_fe
+	url = https://github.com/lusy1112lrnit/chatapp_fe.git
+[submodule "chatapp_be"]
+	path = chatapp_be
+	url = https://github.com/lusy1112lrnit/chatapp_be.git
